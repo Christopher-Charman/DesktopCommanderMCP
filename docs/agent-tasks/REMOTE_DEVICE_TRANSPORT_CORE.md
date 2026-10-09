@@ -1,7 +1,7 @@
 # Agent Task — Transport-Neutral Remote Device Core
 
 Status: READY_FOR_AGENT
-Owner: Christopher Charman
+Owner: repository maintainer
 Scope: Christopher-Charman/DesktopCommanderMCP
 
 ## Objective
